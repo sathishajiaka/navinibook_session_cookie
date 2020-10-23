@@ -1,0 +1,58 @@
+body{
+    background-color: violet;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+
+div{
+    margin:auto;
+    /* background-color: darkkhaki; */
+    width: 550px;
+    height: auto;
+}
+label{
+    margin-left: 20px;
+    display: inline-block;
+width: 160px;
+    font-size:larger;
+    text-transform: uppercase;
+    /* background-color: darkmagenta; */
+    height: 50px;
+    color: rgb(207, 209, 90);
+
+}
+
+
+input{
+display: inline-block;
+padding: 8px;
+height: 25px;
+}
+
+button{
+    display: inline-block;
+    text-transform: uppercase;
+ 
+    border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 8px 8px; /* Add some padding */
+   
+     background-color:rgb(81, 158, 85);
+
+font-size: x-large;
+width: 225px;
+margin-top:4px;
+margin-left: 125px;
+cursor: pointer;
+}
+
+
+a{
+    text-transform: uppercase;
+    padding: 6px;
+}

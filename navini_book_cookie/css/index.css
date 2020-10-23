@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: linear-gradient(90deg, rgb(85, 85, 196), violet); */
+background-color: violet;}
+
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+color: rgb(236, 240, 234);
+width: 100%;
+}
+h1 a{
+    float: right;
+    color: #111010;
+    font-size: small;
+    padding: 4px;
+}
+
+div{
+    /* background-color: rgb(29, 28, 28); */
+    text-align: center;
+
+}
+button{
+    width: 350px;
+    text-transform: uppercase;
+ 
+    border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 24px; /* Add some padding */
+    /* cursor: pointer; */
+     /* Add a pointer cursor on mouse-over */
+     /* background-color: #4CAF50; */
+/* background-color: #4CAF50;  */
+/* Green */
+background-color: rgb(191, 73, 196);
+font-size: xx-large;
+margin-bottom: 50px;
+
+}
+
+ a{
+    text-decoration: none;
+    color: white;
+}
+
+button:hover{
+     background-color: #46a049;
+/* border: transparent; */
+    /* background-color: red; */
+    border: transparent;
+
+}
+
+
+
